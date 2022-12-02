@@ -1,0 +1,15 @@
+C:\Users\Stepan\Desktop\Hw6\bin\Debug\net6.0\Hw6.exe
+C:\Users\Stepan\Desktop\Hw6\bin\Debug\net6.0\Hw6.deps.json
+C:\Users\Stepan\Desktop\Hw6\bin\Debug\net6.0\Hw6.runtimeconfig.json
+C:\Users\Stepan\Desktop\Hw6\bin\Debug\net6.0\Hw6.dll
+C:\Users\Stepan\Desktop\Hw6\bin\Debug\net6.0\Hw6.pdb
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.csproj.AssemblyReference.cache
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.AssemblyInfoInputs.cache
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.AssemblyInfo.cs
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.dll
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\refint\Hw6.dll
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.pdb
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\Hw6.genruntimeconfig.cache
+C:\Users\Stepan\Desktop\Hw6\obj\Debug\net6.0\ref\Hw6.dll
